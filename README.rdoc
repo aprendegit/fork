@@ -1,5 +1,0 @@
-Prueba de modificación de un fichero cualquiera por @jorgejiro
-
-Modificiación de @aalbagarcia después del pull request para que @jorgejiro 
-practique a sincronizar sus fork...si quiere ;-)
-
