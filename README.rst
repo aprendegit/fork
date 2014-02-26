@@ -23,3 +23,4 @@ Prueba de modificación de un fichero cualquiera por @jorgejiro
 Modificación de @aalbagarcia después del pull request para que @jorgejiro 
 practique a sincronizar sus fork... si quiere ;-)
 Modificacion hecha por @SakyaStelios, aprendiendo a usar git
+Modificado para aprender a usar git.
