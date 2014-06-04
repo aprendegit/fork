@@ -1,4 +1,4 @@
-Acerca de
+﻿Acerca de
 ---------------
 Guía: "Fork de repositorios en Github" de: http://aprendegit.com
 
@@ -24,3 +24,5 @@ Modificación de @aalbagarcia después del pull request para que @jorgejiro
 practique a sincronizar sus fork... si quiere ;-)
 Modificacion hecha por @SakyaStelios, aprendiendo a usar git
 Última prueba de pull request (BAstante fácil el tutorial)
+
+modificación de Santos
