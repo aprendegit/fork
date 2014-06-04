@@ -1,4 +1,4 @@
-== Welcome to Rails
+﻿== Welcome to Rails
 
 Prueba de modificación de un fichero cualquiera por @jorgejiro
 
@@ -19,7 +19,7 @@ and directing data to the view.
 In Rails, the model is handled by what's called an object-relational mapping
 layer entitled Active Record. This layer allows you to present the data from
 database rows as objects and embellish these data objects with business logic
-methods. You can read more about Active Record in
+methods. You can read more about Activsadfsdafsdafe Record in
 link:files/vendor/rails/activerecord/README.html.
 
 The controller and view are handled by the Action Pack, which handles both
