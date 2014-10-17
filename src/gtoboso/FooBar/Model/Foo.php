@@ -11,7 +11,7 @@ class Foo extends Bar implements FooInterface
 
     public function __construct()
     {
-        $this->collection = array();;
+        $this->collection = array();
     }
     /**
      * @inheritdoc
