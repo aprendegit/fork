@@ -9,8 +9,10 @@ class Foo extends Bar implements FooInterface
      */
     private $collection;
 
-    public function __construct()
+    public function __construct($lala)
     {
+        parent::__construct($lala);
+
         $this->collection = array();
     }
     /**
