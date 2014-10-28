@@ -1,3 +1,5 @@
 Haciendo pruebas en el fork
-Nueva línea al cambio
-Nueva lína de prueba para hace el último commit y completar el tutorial, gracias a las sugerencias de Alfonso Alba
+Nueva lÃ­nea al cambio
+Nueva lÃ­na de prueba para hace el Ãºltimo commit y completar el tutorial, gracias a las sugerencias de Alfonso Alba
+Se aÃ±ade linea de tecxto
+otra linea
