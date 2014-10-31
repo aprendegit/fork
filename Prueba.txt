@@ -1,5 +1,7 @@
-Haciendo pruebas en el fork
+﻿Haciendo pruebas en el fork
 Nueva línea al cambio
 Nueva lína de prueba para hace el último commit y completar el tutorial, gracias a las sugerencias de Alfonso Alba
 Se añade linea de tecxto
 otra linea
+
+31-10-2014 11:33 [operez]  Añado linea para el primer commit
