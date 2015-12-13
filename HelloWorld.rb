@@ -1,3 +1,4 @@
 #Hola muno ruby para el fork
 
-print "Hola Mundo"
+print "Hello World"
+print "con ruby para el fork"
