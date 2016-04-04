@@ -1,3 +1,4 @@
 nueva funcionalidad super molona.
 correcion de un bug.
+-------------------------------------------
 nuevo cambio para completar el pull-request
