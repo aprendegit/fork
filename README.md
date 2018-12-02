@@ -9,7 +9,7 @@ git fetch upstream (actualizar el fork)
 
 git checkout master (cambiar a la rama master)
 
-*Hacer cambios*
+*Hacer cambios aquí*
 
 git rebase upstream/master (añadir commits)
 
