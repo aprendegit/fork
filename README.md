@@ -1,6 +1,7 @@
 # Pull Request Tutorial
 
 Comandos para trabajar con forks:
+#####personas aprendiendo git Jrbr
 
 
 git remote add upstream https://github.com/whoever/whatever.git  (añadir al git remote el repositorio original)
