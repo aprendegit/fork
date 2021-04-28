@@ -13,3 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require_tree .
+document.addEventListener('load',function(){
+    console.log('starting project');
+})
